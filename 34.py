@@ -1,2 +1,2 @@
-goo=input()
-print(goo.cout(".")+1)
+gow=input()
+print(gow.count(".")+1)
