@@ -1,5 +1,5 @@
-q1,q2=map(int,input().split())
-q1=q1*q2
-q2=q1//q2
-q1=q1//q2
-print(q1,q2)
+gow1,gow2=map(int,input().split())
+gow1=gow1*gow2
+gow2=gow1//gow2
+gow1=gow1//gow2
+print(gow1,gow2)
