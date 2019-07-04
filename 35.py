@@ -1,6 +1,6 @@
-x1=input()
+x2=input()
 sum2=0
-for n in range(len(x1)):
- if(x1[n].isdigit()):
+for g in range(len(x2)):
+ if(x2[g].isdigit()):
   sum2+=1
 print(sum2)
