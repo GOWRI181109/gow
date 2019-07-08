@@ -1,5 +1,5 @@
-mp,ns=map(str,input().split())
-if len(mp)>len(ns) :
-    print(mp)
+lan,wan=map(str,input().split())
+if len(lan)>len(wan) :
+    print(lan)
 else :
-    print(ns)
+    print(wan)
