@@ -1,6 +1,6 @@
 gow=int(input())
 if(gow>1 and gow<10):
-print("Yes")
+print("yes")
 else:
-print("No")
+print("no")
 
