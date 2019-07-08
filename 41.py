@@ -1,5 +1,5 @@
-ptn,jkl=input().split()
+ppn,jkl=input().split()
 jkl=int(jkl)
 for x in range(jkl):
-  print(ptn)
+  print(ppn)
   
