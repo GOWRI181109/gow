@@ -1,2 +1,2 @@
-vani=int(input())
-print(2*vani)
+gow=int(input())
+print(2*gow)
